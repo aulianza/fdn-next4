@@ -14,6 +14,10 @@ Minus:
 - Detail Product
 - Edit & Delete Product
 
+### Potential Improvement
+
+Since the time I had to complete this task is quite short to finish everything, there is some features was not developed. if there is more time, things that can be improved include adding a few minus features, and also improving some of the user interface.
+
 ## Getting Started
 
 First, run the development server:
